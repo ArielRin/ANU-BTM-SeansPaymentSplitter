@@ -94,7 +94,7 @@ Success 1 https://scan.maxxchain.org/tx/0x813df19702830d58656894c82c148dc154bc34
 
 Success with contract 2 safu tokens distributed https://scan.maxxchain.org/tx/0x594bc74ba78406b7523198026953e4543c9f6c41b0ee6a9da804adbcc141dc5d
 
-### Contacts live
+### Contracts live
 
 AnunakiPowerSplitter https://scan.maxxchain.org/address/0x6F56131563f01ED10e74B71939C291f42210196D/contracts#address-tabs
 
