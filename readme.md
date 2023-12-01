@@ -57,7 +57,7 @@ To use the SeansRewardsPaymentSplitter contract in your Web3 DApp:
 format the payee string as follows
 
 Function "updatePayees"
-example 
+example
 
 ["0x1234"]
 
@@ -77,5 +77,30 @@ This smart contract is provided as-is, and users should exercise caution when de
 Feel free to modify the contract code to suit your needs or consult with a smart contract developer for customization.
 
 ---
+
+## Tests Performed
+
+Holderlist as in repo sent amount and successfully distributed equally
+
+
+https://scan.maxxchain.org/tx/0x40f2c55cffc5113e84b8c54e731d5e5cb0c537311cc843916db7591c004e765c
+
+
+alpha tests performed
+
+Fail 1 https://scan.maxxchain.org/tx/0x48fafbf37580f4ed2b5b947f3c054737d9bf216632deb5ef7fe68c50128bf2d6 (didnt format string correctly)
+
+Success 1 https://scan.maxxchain.org/tx/0x813df19702830d58656894c82c148dc154bc34ccc44f2cd0d47b3c6ef3639f46
+
+Success with contract 2 safu tokens distributed https://scan.maxxchain.org/tx/0x594bc74ba78406b7523198026953e4543c9f6c41b0ee6a9da804adbcc141dc5d
+
+### Contacts live
+
+AnunakiPowerSplitter https://scan.maxxchain.org/address/0x6F56131563f01ED10e74B71939C291f42210196D/contracts#address-tabs
+
+SeansSafuRewardsSplitter https://scan.maxxchain.org/address/0x9E9f8CeC0e08dF5Fc9c301E10f91e6b3a83e4328/contracts#address-tabs
+
+
+
 
 *Note: This README assumes basic knowledge of Ethereum, smart contracts, and decentralized applications (DApps).*
