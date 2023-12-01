@@ -52,6 +52,22 @@ To use the SeansRewardsPaymentSplitter contract in your Web3 DApp:
 2. Call the `distribute` function to distribute funds among the payees.
 3. Use additional functions to update payees, withdraw tokens or Ether, and transfer ownership if needed.
 
+### list of payees
+
+format the payee string as follows
+
+Function "updatePayees"
+example 
+
+["0x1234"]
+
+
+["0x1234", "4321"]
+
+
+["0x1234", "0x4321", "0x4213"]
+
+
 Ensure that users interacting with the contract are familiar with decentralized applications and have access to Ethereum wallets compatible with Web3.
 
 ## Disclaimer
